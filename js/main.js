@@ -8,3 +8,6 @@ function  vowelRemover(field){
 
 vowelRemover(strWithVowel);
 vowelRemover(strWithVowels2);
+
+
+// 1.Funksiya yozdim va bunda replaceAll dan foydalandim chunki unli harflarni bo'sh string bilan almashtirib qo'ysam ular yo'qolib qoladi.
