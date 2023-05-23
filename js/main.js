@@ -10,4 +10,6 @@ vowelRemover(strWithVowel);
 vowelRemover(strWithVowels2);
 
 
-// 1.Funksiya yozdim va bunda replaceAll dan foydalandim chunki unli harflarni bo'sh string bilan almashtirib qo'ysam ular yo'qolib qoladi.
+// 1.O'zgaruvchilarni e'lon qildim.
+// 2.Funksiya yozdim va bunda replaceAll dan foydalandim chunki unli harflarni bo'sh string bilan almashtirib qo'ysam ular yo'qolib qoladi.Kn uni console ga yozdim.
+// 3.Kn funksiyani chaqirdim va ishladi.
